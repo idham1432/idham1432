@@ -1,5 +1,8 @@
-- 👋 Hi, I’m Idham Malik
-- 👀 I’m interested in full stack development
-- 🌱 I’m currently learning MySql
-- 💞️ I’m looking to collaborate on any project
-- 📫 How to reach me idham1432@gmail.com
+- 👋 Hi, I’m Idham Malik  
+- 👨‍🏫 I’m a Senior IT Trainer
+- 👀 I’m interested in full stack development and game development  
+- 🌱 I’m currently learning MySQL and improving my backend skills  
+- 💻 I enjoy building scalable apps and writing clean code  
+- 🛠 Skilled in HTML, CSS, JavaScript, PHP, Python, Git, Arduino, and more  
+- 💞️ I’m looking to collaborate on fun and meaningful tech projects  
+- 📫 Reach me at: idham1432@gmail.com
